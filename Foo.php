@@ -3,6 +3,7 @@
  * bewolib
  *
  * @copyright Copyright (c) 2012-2014 Bewotec GmbH (http://www.bewotec.de)
+ * 
  */
 
 namespace Bewo;
