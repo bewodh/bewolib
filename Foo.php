@@ -1,11 +1,11 @@
 <?php
 /**
- * CMS
+ * bewolib
  *
- * @copyright Copyright (c) 2012-2014 DHE, Daniel Henninger (http://www.dhe.de)
+ * @copyright Copyright (c) 2012-2014 Bewotec GmbH (http://www.bewotec.de)
  */
 
-namespace Cms;
+namespace Bewo;
 
 use Zend\Debug\Debug;
 

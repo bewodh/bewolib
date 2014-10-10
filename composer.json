@@ -1,5 +1,5 @@
 {
-  "name" : "bewotec/bewotec",
+  "name" : "bewotec/bewolib",
   "description" : "Library to manipulate myJACK datas",
   "version" : "1.0",
   "require" : {
@@ -15,7 +15,7 @@
     "role" : "Developer"
   } ],
   "keywords" : [ "bewotec", "llibrary", "cms", "meinereisedaten" ],
-  "license" : "GPL",
   "type" : "library",
+  "license" : "GPL",
   "homepage" : "http://bewotec.de"
 }
