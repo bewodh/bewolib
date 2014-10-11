@@ -14,7 +14,7 @@ class Foo
 {
     public static function test($var="") {
         //echo "success !";
-        $test = 5;
+        $test = 6;
         
         if($var != "") {
         	$returnValue = $var." success!";
